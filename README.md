@@ -1,5 +1,5 @@
 # Watch.Co FrontendProject
- A responsive website created using HTML/CSS
+ A static website created using HTML/CSS
  
  Here is the link for the site : 
  
